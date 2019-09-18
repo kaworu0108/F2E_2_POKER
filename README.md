@@ -5,4 +5,4 @@
 <hr>
 <br>7/29 v02 卡片位置OK icon 位置OK 
 <br>缺計時功能、拖曳功能、重新開始功能
-https://kaworu0108.github.io/F2E_2_POKER/
+https://kaworu0108.github.io/F2E_2_POKER/main.html
